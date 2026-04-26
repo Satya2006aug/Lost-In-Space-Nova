@@ -1,4 +1,4 @@
-# Satellite Imaging Planner (v6)
+# Satellite Imaging Planner 
 
 ## Overview
 This project implements a **case-adaptive imaging scheduler** for an Earth observation satellite. The goal is to maximize AOI coverage while respecting spacecraft constraints and improving control-effort efficiency (η_E).
