@@ -1,5 +1,10 @@
 # Satellite Imaging Planner 
 
+## Team Members: Nova
+Satya Pranavi Vemula
+Kundana Priya
+Muvva Sirimalli
+
 ## Overview
 This project implements a **case-adaptive imaging scheduler** for an Earth observation satellite. The goal is to maximize AOI coverage while respecting spacecraft constraints and improving control-effort efficiency (η_E).
 
